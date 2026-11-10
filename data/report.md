@@ -1,0 +1,135 @@
+# Job feeds 2026-11-10T06:44:57Z
+115 matching roles, 115 new since last run.
+
+## New
+- pinterest: Sales Finance Analyst II (New York, NY, USA; Hybrid) https://www.pinterestcareers.com/jobs/?gh_jid=7507652
+- reddit: Business Analyst (New York City, NY) https://job-boards.greenhouse.io/reddit/jobs/8349881
+- discord: Strategic Finance Analyst (San Francisco Bay Area) https://job-boards.greenhouse.io/discord/jobs/8575166002
+- figma: Business Systems Analyst (San Francisco, CA • New York, NY • United States) https://boards.greenhouse.io/figma/jobs/6215865004?gh_jid=6215865004
+- figma: HRIS Analyst (San Francisco, CA • New York, NY • United States) https://boards.greenhouse.io/figma/jobs/6201385004?gh_jid=6201385004
+- figma: People Operations Coordinator (San Francisco, CA) https://boards.greenhouse.io/figma/jobs/6240900004?gh_jid=6240900004
+- stripe: AMER Data Analyst - Sales Strategy and Operations (Chicago, US Remote, SF, NYC, Seattle) https://stripe.com/jobs/search?gh_jid=8354566
+- stripe: Data Analyst, SF (San Francisco) https://stripe.com/jobs/search?gh_jid=8189909
+- stripe: Finance & Strategy, Corporate Finance Analyst (New York, NY) https://stripe.com/jobs/search?gh_jid=8249865
+- stripe: Finance & Strategy Specialist (United States) https://stripe.com/jobs/search?gh_jid=8287914
+- stripe: GTM Strategy & Operations Analyst (NYC, SF, Seattle, US) https://stripe.com/jobs/search?gh_jid=8201680
+- stripe: People Operations Specialist, HR Compliance (Chicago, US-Remote) https://stripe.com/jobs/search?gh_jid=8189015
+- stripe: Renewals Analyst (Chicago, IL) https://stripe.com/jobs/search?gh_jid=8230306
+- stripe: Risk Operations Analyst (Remote) https://stripe.com/jobs/search?gh_jid=7230921
+- stripe: Risk Operations Analyst - RBO  (Remote ) https://stripe.com/jobs/search?gh_jid=8175824
+- stripe: Security Analyst  (US Remote) https://stripe.com/jobs/search?gh_jid=8142302
+- stripe: Strategy & Analytics Business Partner Analyst (US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote) https://stripe.com/jobs/search?gh_jid=8079783
+- lyft: Digital Ad Ops Coordinator, Lyft Ads (San Francisco, CA) https://app.careerpuck.com/job-board/lyft/job/8927244002?gh_jid=8927244002
+- lyft: Lyft Business Customer Success Associate (San Francisco, CA) https://app.careerpuck.com/job-board/lyft/job/8928721002?gh_jid=8928721002
+- lyft: Lyft Business Customer Success Associate (New York, NY) https://app.careerpuck.com/job-board/lyft/job/8928746002?gh_jid=8928746002
+- lyft: Risk Analyst (New York, NY) https://app.careerpuck.com/job-board/lyft/job/8883423002?gh_jid=8883423002
+- lyft: Risk Analyst (San Francisco, CA) https://app.careerpuck.com/job-board/lyft/job/8883412002?gh_jid=8883412002
+- instacart: Lifecycle Marketing Coordinator, CRM (United States - Remote) https://instacart.careers/job/?gh_jid=8355990
+- instacart: Lifecycle Marketing Coordinator, CRM (Canada - Remote (ON, AB, BC, or NS Only)) https://instacart.careers/job/?gh_jid=8355992
+- dropbox: Legal Operations Associate (Remote - Canada: Select locations) https://jobs.dropbox.com/listing/8328470?gh_jid=8328470
+- dropbox: Legal Operations Associate (Remote - US: Select locations) https://jobs.dropbox.com/listing/8328469?gh_jid=8328469
+- asana: Legal Operations Analyst (Chicago) https://www.asana.com/jobs/apply/8282518?gh_jid=8282518
+- robinhood: Brokerage Communications Specialist (Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY) https://boards.greenhouse.io/robinhood/jobs/8174853?t=gh_src=&gh_jid=8174853
+- robinhood: Fraud Investigations Analyst (Denver, CO; Westlake, TX) https://boards.greenhouse.io/robinhood/jobs/8226972?t=gh_src=&gh_jid=8226972
+- coinbase: Analyst, Privacy (Privacy Assessments) (Remote - USA) https://www.coinbase.com/careers/positions/8281622?gh_jid=8281622
+- coinbase: Broker Dealer Operations, Associate (Remote - USA) https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775
+- coinbase: Clearing Risk Analyst (Remote - USA) https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356
+- coinbase: Complaints Analyst III (Remote - Australia) https://www.coinbase.com/careers/positions/7254275?gh_jid=7254275
+- coinbase: Enterprise Risk Management Analyst (Remote - Luxembourg) https://www.coinbase.com/careers/positions/8233945?gh_jid=8233945
+- coinbase: Finance & Strategy Analyst, Product (Remote - USA) https://www.coinbase.com/careers/positions/8250032?gh_jid=8250032
+- coinbase: Prime Financing Trading Analyst (Remote - USA) https://www.coinbase.com/careers/positions/8351568?gh_jid=8351568
+- coinbase: Risk & Monitoring Analyst III (Remote - UK) https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696
+- coinbase: Risk & Monitoring Analyst III (Remote - UK) https://www.coinbase.com/careers/positions/8147699?gh_jid=8147699
+- coinbase: Social Support Specialist I (Remote - USA) https://www.coinbase.com/careers/positions/8335621?gh_jid=8335621
+- coinbase: Social Support Specialist I (Remote - USA) https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618
+- coinbase: Specialist, Market Operations (Remote - Singapore) https://www.coinbase.com/careers/positions/8222264?gh_jid=8222264
+- coinbase: Specialist, Market Operations (Remote - USA) https://www.coinbase.com/careers/positions/8222259?gh_jid=8222259
+- coinbase: Specialist, Market Operations (Remote - UK) https://www.coinbase.com/careers/positions/8222267?gh_jid=8222267
+- brex: Analyst, Banking Operations (Domestic) (Salt Lake City, Utah, United States) https://www.brex.com/careers/8923923002?gh_jid=8923923002
+- brex: Analyst, Banking Operations (Domestic) (New York, New York, United States) https://www.brex.com/careers/8924533002?gh_jid=8924533002
+- brex: Data Analyst II (New York, New York, United States) https://www.brex.com/careers/8463702002?gh_jid=8463702002
+- brex: Fraud Strategy Associate (Salt Lake City, Utah, United States) https://www.brex.com/careers/8907553002?gh_jid=8907553002
+- brex: Fraud Strategy Associate (New York, New York, United States) https://www.brex.com/careers/8907584002?gh_jid=8907584002
+- brex: Fraud Strategy Associate (San Francisco, California, United States) https://www.brex.com/careers/8907563002?gh_jid=8907563002
+- brex: Fraud Strategy Associate (Seattle, Washington, United States) https://www.brex.com/careers/8907623002?gh_jid=8907623002
+- brex: Partner Operations Program Manager, Associate (Salt Lake City, Utah, United States) https://www.brex.com/careers/8925893002?gh_jid=8925893002
+- brex: Startup Partnerships Associate (San Francisco, California, United States) https://www.brex.com/careers/8864643002?gh_jid=8864643002
+- brex: Venture Partnerships Associate (San Francisco, California, United States) https://www.brex.com/careers/8864648002?gh_jid=8864648002
+- gusto: Enhanced Due Diligence Investigations Analyst (Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid) https://job-boards.greenhouse.io/gusto/jobs/8275011
+- gusto: Fraud Investigations Analyst (Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid) https://job-boards.greenhouse.io/gusto/jobs/8275021
+- gusto: Payment Operations Analyst  (San Francisco, CA - Hybrid; Seattle, WA - Remote) https://job-boards.greenhouse.io/gusto/jobs/8180461
+- gusto: People Tech Business Systems Analyst (Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid) https://job-boards.greenhouse.io/gusto/jobs/8257482
+- gusto: Security Operations Analyst (Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid) https://job-boards.greenhouse.io/gusto/jobs/8348189
+- samsara: Business Technology Operations Support Specialist (San Francisco, CA, United States) https://www.samsara.com/company/careers/roles/8337673?gh_jid=8337673
+- anthropic: AV Operations Specialist (New York City, NY) https://job-boards.greenhouse.io/anthropic/jobs/5383710008
+- anthropic: Business Systems Analyst, GTM Systems (San Francisco, CA | New York City, NY) https://job-boards.greenhouse.io/anthropic/jobs/5436196008
+- anthropic: Business Systems Analyst, New Product Introduction (San Francisco, CA | New York City, NY | Seattle, WA) https://job-boards.greenhouse.io/anthropic/jobs/5416829008
+- anthropic: Discovery Technical Operations Specialist  (San Francisco, CA | New York City, NY) https://job-boards.greenhouse.io/anthropic/jobs/5441896008
+- anthropic: Enforcement Analyst, Agentic Alignment (Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC) https://job-boards.greenhouse.io/anthropic/jobs/5462893008
+- anthropic: Finance Systems Analyst, Tax (San Francisco, CA | Seattle, WA) https://job-boards.greenhouse.io/anthropic/jobs/5357947008
+- anthropic: Safeguards Enforcement Analyst, Access Controls & Identity (San Francisco, CA | New York City, NY | Washington, DC) https://job-boards.greenhouse.io/anthropic/jobs/5319626008
+- anthropic: Safeguards Enforcement Analyst, Account Takeover & Credential Abuse (San Francisco, CA | New York City, NY | Washington, DC) https://job-boards.greenhouse.io/anthropic/jobs/5319624008
+- anthropic: Safeguards Enforcement Analyst, Bio Harms (San Francisco, CA | New York City, NY | Washington, DC) https://job-boards.greenhouse.io/anthropic/jobs/5319696008
+- anthropic: Safeguards Enforcement Analyst, Conventional Weapons (San Francisco, CA | New York City, NY | Washington, DC) https://job-boards.greenhouse.io/anthropic/jobs/5410006008
+- anthropic: Safeguards Enforcement Analyst, Integrity & Authenticity  (San Francisco, CA | New York City, NY | Washington, DC) https://job-boards.greenhouse.io/anthropic/jobs/5311149008
+- affirm: Analyst, Early Career (Full Stack) (New York, New York, United States; San Francisco, California, United States) https://job-boards.greenhouse.io/affirm/jobs/8039471003
+- affirm: Analyst II, Credit (Remote UK) https://job-boards.greenhouse.io/affirm/jobs/7832318003
+- affirm: Compensation Analyst II (Programs & Partnerships) (Remote Canada) https://job-boards.greenhouse.io/affirm/jobs/8048121003
+- affirm: Compensation Analyst II (Programs & Partnerships) (Remote US) https://job-boards.greenhouse.io/affirm/jobs/8048119003
+- gitlab: Ecosystem Operations Specialist (Remote, Canada; Remote, United States) https://job-boards.greenhouse.io/gitlab/jobs/8907694002
+- gitlab: People Technology Analyst - Workday (Remote, United States) https://job-boards.greenhouse.io/gitlab/jobs/8861782002
+- gitlab: Tech Operations Specialist (Remote, United States) https://job-boards.greenhouse.io/gitlab/jobs/8638246002
+- okta: Demand Signals Specialist, GrowthX (Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada) https://www.okta.com/company/careers/opportunity/8238198?gh_jid=8238198
+- sofi: Financial Services Strategic Sourcing Analyst (United States) https://sofi.com/careers/job/7979520003?gh_jid=7979520003
+- palantir: Compliance Analyst (New York, NY) https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6
+- palantir: Legal Operations Specialist (New York, NY) https://jobs.lever.co/palantir/18383723-04a2-44ae-ae58-1166a76f0859
+- palantir: Legal Operations Specialist (Palo Alto, CA) https://jobs.lever.co/palantir/3c0c9552-f4ae-4467-b032-5809d2d62724
+- palantir: Legal Operations Specialist (Denver, CO) https://jobs.lever.co/palantir/bd500579-5e1c-441f-b42f-66822d07dbba
+- palantir: Mobility Tax Analyst (Palo Alto, CA) https://jobs.lever.co/palantir/7dc7e7c3-39bf-4f4e-a8eb-e38a4a0af238
+- palantir: Operations Analyst - US Government (New York, NY) https://jobs.lever.co/palantir/b14585f4-9a68-49e8-97af-3f03f2a6c357
+- palantir: Operations Analyst - US Government Security (Palo Alto, CA) https://jobs.lever.co/palantir/5f3f9547-2aea-4ac2-995d-e8fa53b16e39
+- palantir: Procurement Operations Analyst (Denver, CO) https://jobs.lever.co/palantir/66955c3b-c530-4c4a-9d48-63b4aad61b9c
+- palantir: Sales Finance Operations Analyst (Palo Alto, CA) https://jobs.lever.co/palantir/d505f854-d339-448b-bf7e-46e2f32cff78
+- palantir: Site Reliability Operations Analyst - Commercial (New York, NY) https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94
+- ramp: HRIS Analyst (Workday) (New York, NY (HQ)) https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2
+- ramp: KYB/AML Analyst, Sweden (Remote (Sweden)) https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f
+- ramp: Product Operations Specialist | Procurement (New York, NY (HQ)) https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b
+- ramp: Analyst, Deal Operations (San Francisco, CA) https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4
+- ramp: Fraud Operations Specialist (New York, NY (HQ)) https://jobs.ashbyhq.com/ramp/b6132946-62e7-4ed4-9b93-f7cbe0e2c1fe
+- ramp: Legal & Privacy Operations Associate (New York, NY (HQ)) https://jobs.ashbyhq.com/ramp/31bd9e9e-102f-4051-abc1-22cdd7d9617a
+- notion: Payroll Analyst  (San Francisco, California) https://jobs.ashbyhq.com/notion/92de7ece-b7d9-4b2a-b9cb-b978cc690a46
+- openai: Trust & Safety Ads Operations Analyst, Programs (San Francisco) https://jobs.ashbyhq.com/openai/c9e9e3a5-fb93-4162-b876-6266016819c0
+- openai: Device Safety & Risk Operations Specialist, User Safety & Risk Operations (San Francisco) https://jobs.ashbyhq.com/openai/24f3c017-d844-4df1-bc52-71f95b6e731d
+- openai: User Safety & Risk Operations Analyst - Global Response (Weekend Shift) (San Francisco) https://jobs.ashbyhq.com/openai/d990222d-ecf1-417f-a248-6e962b5a18e0
+- openai: Consumer Device Safety & Risk Operations Specialist, User Safety & Risk Operations (San Francisco) https://jobs.ashbyhq.com/openai/6428a0f8-4c4c-40b0-afd5-d73af172699f
+- openai: Operations Analyst, User Safety & Risk Operations (San Francisco) https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3
+- openai: Regulatory Operations Analyst, User Safety & Risk Operations (San Francisco) https://jobs.ashbyhq.com/openai/bc059a72-8ff3-4a80-a499-5b82ccca1f05
+- openai: People Technology Analyst, Workday PATT & Benefits (San Francisco) https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c
+- openai: Compensation Operations Analyst (San Francisco) https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052
+- openai: Trusted Access Specialist, Critical Harm Operations (San Francisco) https://jobs.ashbyhq.com/openai/5ebf3a52-0023-484c-a0fd-75f6ec7483ca
+- perplexity: Associate Product Marketing Manager (San Francisco) https://jobs.ashbyhq.com/Perplexity/08f1a218-bdff-4cdd-aefe-0d55529b1ece
+- perplexity: Governance, Risk & Compliance Analyst  (San Francisco) https://jobs.ashbyhq.com/Perplexity/977b626c-5546-42c6-95c8-4e2350ec41c9
+- perplexity: Payroll Analyst (San Francisco) https://jobs.ashbyhq.com/Perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1
+- cursor: Deal Desk Analyst - Americas  (San Francisco, CA) https://jobs.ashbyhq.com/cursor/204c679c-d56a-4496-b868-b0b7399d0174
+- harvey: Deal Operations Analyst (Chicago) https://jobs.ashbyhq.com/harvey/16b67976-02a3-4179-9eca-afc86c551b8a
+- harvey: Compliance Analyst (San Francisco) https://jobs.ashbyhq.com/harvey/2f35e50f-2978-44c3-a495-7cbfc1f512d4
+- harvey: CX Data Analyst (San Francisco) https://jobs.ashbyhq.com/harvey/ecfc45be-fc15-4c16-a419-509c998b6c80
+- harvey: CX Data Analyst (Remote) https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45
+- harvey: CX Data Analyst (New York) https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b
+- elevenlabs: Account Executive  - Creative Specialist - Enterprise (United States) https://jobs.ashbyhq.com/ElevenLabs/92997f8a-9f90-40fe-a76e-89ffbc44d0cc
+
+## DEAD slugs (fix in companies.json)
+- greenhouse/doordash (HTTP 404)
+- greenhouse/nerdwallet (HTTP 404)
+- greenhouse/plaid (HTTP 404)
+- greenhouse/grammarly (HTTP 404)
+- greenhouse/hubspot (HTTP 404)
+- greenhouse/spotify (HTTP 404)
+- lever/zipline (HTTP 404)
+- lever/eventbrite (HTTP 404)
+- lever/attentive (HTTP 404)
+- lever/plaid (HTTP 404)
+- lever/kikoff (HTTP 404)
+- ashby/whatnot (HTTP 404)
+- ashby/retool (HTTP 404)
+- ashby/clay (HTTP 404)
