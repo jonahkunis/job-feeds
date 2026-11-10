@@ -1,0 +1,6 @@
+{
+  "_note": "Slugs are guesses until the first run. Check data/report.md for any marked DEAD and fix or remove them.",
+  "greenhouse": ["airbnb","pinterest","reddit","discord","figma","stripe","doordash","lyft","instacart","dropbox","asana","robinhood","coinbase","squarespace","brex","webflow","gusto","samsara","databricks","scaleai","anthropic","nerdwallet","affirm","chime","plaid","duolingo","peloton","grammarly","twitch","calendly","faire","airtable","gitlab","hubspot","okta","roku","sofi","spotify","toast","udemy"],
+  "lever": ["zipline","eventbrite","attentive","palantir","plaid","kikoff","outreach"],
+  "ashby": ["ramp","notion","openai","linear","vercel","whatnot","deel","retool","perplexity","cursor","replit","mercury","clay","harvey","elevenlabs"]
+}
