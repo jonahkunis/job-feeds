@@ -3,7 +3,7 @@ import json, re, datetime, urllib.request, urllib.error
 
 INCLUDE = re.compile(r"new ?grad|graduate|university|early career|entry|associate|rotational|2027|analyst|coordinator|specialist|apm(m)?\b", re.I)
 LANE = re.compile(r"marketing|brand|growth|content|social|creative|video|community|communications|partnership|operations|ops\b|strategy|business|analyst|analytics|insights|go-to-market|gtm|lifecycle|e-?commerce|sales development|business development", re.I)
-EXCLUDE = re.compile(r"senior|sr\.?|staff|principal|lead|director|head of|vp|intern|phd|mba|engineer|engineering|software|developer|scientist|counsel|attorney|recruit|nurse|clinical", re.I)
+EXCLUDE = re.compile(r"senior|sr\.?|staff|principal|lead|director|head of|vp|intern|phd|mba|engineer|engineering|software|developer|scientist|counsel|attorney|recruit|nurse|clinical|legal|fraud|risk|compliance|payroll|security|privacy|hris|workday|tax|compensation|people tech|credit|trading|investigat|safeguards|enforcement|kyb|aml|procurement|sourcing|support|account executive|\b(ii|iii|iv)\b", re.I)
 US = re.compile(r"united states|usa|\bus\b|remote|california|\bca\b|san francisco|bay area|oakland|berkeley|palo alto|mountain view|sunnyvale|san jose|menlo park|redwood city|south san francisco|los angeles|new york|\bny\b|seattle|austin|chicago|boston|denver", re.I)
 
 def get(url):
@@ -13,7 +13,12 @@ def get(url):
 
 MANAGER = re.compile(r"manager", re.I)
 
+NONUS = re.compile(r"canada|\buk\b|united kingdom|london|australia|luxembourg|singapore|sweden|germany|ireland|india|japan|france|netherlands|brazil|mexico|toronto", re.I)
+USX = re.compile(r"united states|usa|\bus\b|california|\bca\b|san francisco|new york|\bny\b|seattle|chicago|austin|boston|denver|los angeles", re.I)
+
 def keep(title, loc):
+    if loc and NONUS.search(loc) and not USX.search(loc):
+        return False
     if MANAGER.search(title) and not re.search(r"associate", title, re.I):
         return False
     return INCLUDE.search(title) and LANE.search(title) and not EXCLUDE.search(title) and (not loc or US.search(loc))
