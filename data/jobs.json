@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T19:46:39Z",
+ "fetched_at": "2026-11-11T19:39:13Z",
  "count": 44,
  "jobs": [
   {
@@ -10,6 +10,15 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/8349881",
    "posted_or_updated": "2026-11-05T11:15:52-05:00",
    "new_since_last_run": false
+  },
+  {
+   "company": "discord",
+   "board": "greenhouse",
+   "title": "Strategic Finance Analyst",
+   "location": "San Francisco Bay Area",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8865033002",
+   "posted_or_updated": "2026-11-10T15:23:17-05:00",
+   "new_since_last_run": true
   },
   {
    "company": "figma",
@@ -27,7 +36,7 @@
    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
    "url": "https://boards.greenhouse.io/figma/jobs/6249978004?gh_jid=6249978004",
    "posted_or_updated": "2026-11-10T13:53:05-05:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "stripe",
@@ -44,7 +53,7 @@
    "title": "Data Analyst, SF",
    "location": "San Francisco",
    "url": "https://stripe.com/jobs/search?gh_jid=8189909",
-   "posted_or_updated": "2026-11-04T19:31:43-05:00",
+   "posted_or_updated": "2026-11-11T12:48:21-05:00",
    "new_since_last_run": false
   },
   {
@@ -120,15 +129,6 @@
    "new_since_last_run": false
   },
   {
-   "company": "instacart",
-   "board": "greenhouse",
-   "title": "Lifecycle Marketing Coordinator, CRM",
-   "location": "United States - Remote",
-   "url": "https://instacart.careers/job/?gh_jid=8355990",
-   "posted_or_updated": "2026-11-05T12:17:42-05:00",
-   "new_since_last_run": false
-  },
-  {
    "company": "robinhood",
    "board": "greenhouse",
    "title": "Brokerage Communications Specialist",
@@ -168,18 +168,18 @@
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "Salt Lake City, Utah, United States",
-   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
-   "posted_or_updated": "2026-11-02T14:49:39-05:00",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
+   "posted_or_updated": "2026-11-02T14:49:50-05:00",
    "new_since_last_run": false
   },
   {
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
-   "posted_or_updated": "2026-11-02T14:49:50-05:00",
+   "location": "Salt Lake City, Utah, United States",
+   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
+   "posted_or_updated": "2026-11-02T14:49:39-05:00",
    "new_since_last_run": false
   },
   {
