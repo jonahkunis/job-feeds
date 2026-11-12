@@ -1,16 +1,7 @@
 {
- "fetched_at": "2026-11-11T19:39:13Z",
- "count": 44,
+ "fetched_at": "2026-11-12T19:57:57Z",
+ "count": 46,
  "jobs": [
-  {
-   "company": "reddit",
-   "board": "greenhouse",
-   "title": "Business Analyst",
-   "location": "New York City, NY",
-   "url": "https://job-boards.greenhouse.io/reddit/jobs/8349881",
-   "posted_or_updated": "2026-11-05T11:15:52-05:00",
-   "new_since_last_run": false
-  },
   {
    "company": "discord",
    "board": "greenhouse",
@@ -18,7 +9,7 @@
    "location": "San Francisco Bay Area",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8865033002",
    "posted_or_updated": "2026-11-10T15:23:17-05:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "figma",
@@ -114,8 +105,8 @@
    "company": "lyft",
    "board": "greenhouse",
    "title": "Lyft Business Customer Success Associate",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8928721002?gh_jid=8928721002",
+   "location": "New York, NY",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8928746002?gh_jid=8928746002",
    "posted_or_updated": "2026-11-10T10:52:40-05:00",
    "new_since_last_run": false
   },
@@ -123,10 +114,28 @@
    "company": "lyft",
    "board": "greenhouse",
    "title": "Lyft Business Customer Success Associate",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8928746002?gh_jid=8928746002",
+   "location": "San Francisco, CA",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8928721002?gh_jid=8928721002",
    "posted_or_updated": "2026-11-10T10:52:40-05:00",
    "new_since_last_run": false
+  },
+  {
+   "company": "instacart",
+   "board": "greenhouse",
+   "title": "Lifecycle Marketing Coordinator, CRM",
+   "location": "United States - Remote",
+   "url": "https://instacart.careers/job/?gh_jid=8355990",
+   "posted_or_updated": "2026-11-12T13:21:25-05:00",
+   "new_since_last_run": true
+  },
+  {
+   "company": "robinhood",
+   "board": "greenhouse",
+   "title": "Accounts Receivable Operations Analyst",
+   "location": "Menlo Park, CA",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8379685?t=gh_src=&gh_jid=8379685",
+   "posted_or_updated": "2026-11-12T11:42:52-05:00",
+   "new_since_last_run": true
   },
   {
    "company": "robinhood",
@@ -134,7 +143,7 @@
    "title": "Brokerage Communications Specialist",
    "location": "Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8174853?t=gh_src=&gh_jid=8174853",
-   "posted_or_updated": "2026-10-30T11:05:23-04:00",
+   "posted_or_updated": "2026-11-12T09:16:34-05:00",
    "new_since_last_run": false
   },
   {
@@ -343,6 +352,15 @@
    "url": "https://jobs.ashbyhq.com/openai/5ebf3a52-0023-484c-a0fd-75f6ec7483ca",
    "posted_or_updated": "2026-10-29T17:35:50.993+00:00",
    "new_since_last_run": false
+  },
+  {
+   "company": "openai",
+   "board": "ashby",
+   "title": "Partnerships & External Affairs Associate, Global Affairs",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/a00fce27-16ef-47f0-a584-a1ea37adbc96",
+   "posted_or_updated": "2026-11-12T06:07:56.918+00:00",
+   "new_since_last_run": true
   },
   {
    "company": "perplexity",
