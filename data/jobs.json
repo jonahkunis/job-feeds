@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-12T19:57:57Z",
- "count": 46,
+ "fetched_at": "2026-11-13T19:45:39Z",
+ "count": 43,
  "jobs": [
   {
    "company": "discord",
@@ -68,15 +68,6 @@
   {
    "company": "stripe",
    "board": "greenhouse",
-   "title": "GTM Strategy & Operations Analyst",
-   "location": "NYC, SF, Seattle, US",
-   "url": "https://stripe.com/jobs/search?gh_jid=8201680",
-   "posted_or_updated": "2026-10-29T10:42:09-04:00",
-   "new_since_last_run": false
-  },
-  {
-   "company": "stripe",
-   "board": "greenhouse",
    "title": "Renewals Analyst",
    "location": "Chicago, IL",
    "url": "https://stripe.com/jobs/search?gh_jid=8230306",
@@ -126,7 +117,7 @@
    "location": "United States - Remote",
    "url": "https://instacart.careers/job/?gh_jid=8355990",
    "posted_or_updated": "2026-11-12T13:21:25-05:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "robinhood",
@@ -134,8 +125,8 @@
    "title": "Accounts Receivable Operations Analyst",
    "location": "Menlo Park, CA",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8379685?t=gh_src=&gh_jid=8379685",
-   "posted_or_updated": "2026-11-12T11:42:52-05:00",
-   "new_since_last_run": true
+   "posted_or_updated": "2026-11-13T03:04:43-05:00",
+   "new_since_last_run": false
   },
   {
    "company": "robinhood",
@@ -177,18 +168,18 @@
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
-   "posted_or_updated": "2026-11-02T14:49:50-05:00",
+   "location": "Salt Lake City, Utah, United States",
+   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
+   "posted_or_updated": "2026-11-02T14:49:39-05:00",
    "new_since_last_run": false
   },
   {
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "Salt Lake City, Utah, United States",
-   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
-   "posted_or_updated": "2026-11-02T14:49:39-05:00",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
+   "posted_or_updated": "2026-11-02T14:49:50-05:00",
    "new_since_last_run": false
   },
   {
@@ -219,30 +210,12 @@
    "new_since_last_run": false
   },
   {
-   "company": "gusto",
-   "board": "greenhouse",
-   "title": "Payment Operations Analyst ",
-   "location": "San Francisco, CA - Hybrid; Seattle, WA - Remote",
-   "url": "https://job-boards.greenhouse.io/gusto/jobs/8180461",
-   "posted_or_updated": "2026-10-30T10:03:36-04:00",
-   "new_since_last_run": false
-  },
-  {
    "company": "anthropic",
    "board": "greenhouse",
    "title": "AV Operations Specialist",
    "location": "New York City, NY",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383710008",
    "posted_or_updated": "2026-09-22T21:10:30-04:00",
-   "new_since_last_run": false
-  },
-  {
-   "company": "anthropic",
-   "board": "greenhouse",
-   "title": "Business Systems Analyst, GTM Systems",
-   "location": "San Francisco, CA | New York City, NY",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436196008",
-   "posted_or_updated": "2026-09-29T13:12:21-04:00",
    "new_since_last_run": false
   },
   {
@@ -360,7 +333,7 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/a00fce27-16ef-47f0-a584-a1ea37adbc96",
    "posted_or_updated": "2026-11-12T06:07:56.918+00:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "perplexity",
