@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-13T19:45:39Z",
- "count": 43,
+ "fetched_at": "2026-11-14T18:08:54Z",
+ "count": 41,
  "jobs": [
   {
    "company": "discord",
@@ -37,6 +37,15 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8354566",
    "posted_or_updated": "2026-11-05T19:45:33-05:00",
    "new_since_last_run": false
+  },
+  {
+   "company": "stripe",
+   "board": "greenhouse",
+   "title": "Data Analyst",
+   "location": "US",
+   "url": "https://stripe.com/jobs/search?gh_jid=5601881",
+   "posted_or_updated": "2026-11-13T17:08:50-05:00",
+   "new_since_last_run": true
   },
   {
    "company": "stripe",
@@ -93,24 +102,6 @@
    "new_since_last_run": false
   },
   {
-   "company": "lyft",
-   "board": "greenhouse",
-   "title": "Lyft Business Customer Success Associate",
-   "location": "New York, NY",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8928746002?gh_jid=8928746002",
-   "posted_or_updated": "2026-11-10T10:52:40-05:00",
-   "new_since_last_run": false
-  },
-  {
-   "company": "lyft",
-   "board": "greenhouse",
-   "title": "Lyft Business Customer Success Associate",
-   "location": "San Francisco, CA",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8928721002?gh_jid=8928721002",
-   "posted_or_updated": "2026-11-10T10:52:40-05:00",
-   "new_since_last_run": false
-  },
-  {
    "company": "instacart",
    "board": "greenhouse",
    "title": "Lifecycle Marketing Coordinator, CRM",
@@ -134,7 +125,7 @@
    "title": "Brokerage Communications Specialist",
    "location": "Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8174853?t=gh_src=&gh_jid=8174853",
-   "posted_or_updated": "2026-11-12T09:16:34-05:00",
+   "posted_or_updated": "2026-11-13T16:46:43-05:00",
    "new_since_last_run": false
   },
   {
@@ -168,18 +159,18 @@
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "Salt Lake City, Utah, United States",
-   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
-   "posted_or_updated": "2026-11-02T14:49:39-05:00",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
+   "posted_or_updated": "2026-11-02T14:49:50-05:00",
    "new_since_last_run": false
   },
   {
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
-   "posted_or_updated": "2026-11-02T14:49:50-05:00",
+   "location": "Salt Lake City, Utah, United States",
+   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
+   "posted_or_updated": "2026-11-02T14:49:39-05:00",
    "new_since_last_run": false
   },
   {
@@ -255,21 +246,12 @@
    "new_since_last_run": false
   },
   {
-   "company": "gitlab",
-   "board": "greenhouse",
-   "title": "Tech Operations Specialist",
-   "location": "Remote, United States",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638246002",
-   "posted_or_updated": "2026-11-06T15:25:07-05:00",
-   "new_since_last_run": false
-  },
-  {
    "company": "okta",
    "board": "greenhouse",
    "title": "Demand Signals Specialist, GrowthX",
    "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
    "url": "https://www.okta.com/company/careers/opportunity/8238198?gh_jid=8238198",
-   "posted_or_updated": "2026-09-29T18:49:27-04:00",
+   "posted_or_updated": "2026-11-13T16:59:18-05:00",
    "new_since_last_run": false
   },
   {
