@@ -1,8 +1,8 @@
-# Job feeds 2026-11-16T22:08:51Z
-43 matching roles, 1 new since last run.
+# Job feeds 2026-11-17T20:58:34Z
+42 matching roles, 1 new since last run.
 
 ## New
-- stripe: Sales Strategy & Operations Analyst  (Chicago) https://stripe.com/jobs/search?gh_jid=8164674
+- anthropic: Protective Intelligence Analyst  (San Francisco, CA | New York City, NY | Washington, DC) https://job-boards.greenhouse.io/anthropic/jobs/5422952008
 
 ## DEAD slugs (fix in companies.json)
 - none
