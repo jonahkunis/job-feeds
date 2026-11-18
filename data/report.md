@@ -1,8 +1,8 @@
-# Job feeds 2026-11-17T20:58:34Z
+# Job feeds 2026-11-18T20:36:14Z
 42 matching roles, 1 new since last run.
 
 ## New
-- anthropic: Protective Intelligence Analyst  (San Francisco, CA | New York City, NY | Washington, DC) https://job-boards.greenhouse.io/anthropic/jobs/5422952008
+- replit: Business Operations Analyst (Foster City, CA) https://jobs.ashbyhq.com/replit/9b211cc2-dcb2-4902-b84f-a5a2d5d0705f
 
 ## DEAD slugs (fix in companies.json)
 - none

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-17T20:58:34Z",
+ "fetched_at": "2026-11-18T20:36:14Z",
  "count": 42,
  "jobs": [
   {
@@ -120,15 +120,6 @@
    "new_since_last_run": false
   },
   {
-   "company": "robinhood",
-   "board": "greenhouse",
-   "title": "Brokerage Communications Specialist",
-   "location": "Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8174853?t=gh_src=&gh_jid=8174853",
-   "posted_or_updated": "2026-11-13T16:46:43-05:00",
-   "new_since_last_run": false
-  },
-  {
    "company": "coinbase",
    "board": "greenhouse",
    "title": "Broker Dealer Operations, Associate",
@@ -225,7 +216,7 @@
    "location": "San Francisco, CA | New York City, NY | Washington, DC",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422952008",
    "posted_or_updated": "2026-11-17T13:05:28-05:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "affirm",
@@ -233,7 +224,7 @@
    "title": "Analyst, Early Career (Full Stack)",
    "location": "New York, New York, United States; San Francisco, California, United States",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
-   "posted_or_updated": "2026-11-02T15:46:29-05:00",
+   "posted_or_updated": "2026-11-17T18:04:11-05:00",
    "new_since_last_run": false
   },
   {
@@ -334,6 +325,15 @@
    "url": "https://jobs.ashbyhq.com/cursor/204c679c-d56a-4496-b868-b0b7399d0174",
    "posted_or_updated": "2026-11-09T21:14:01.189+00:00",
    "new_since_last_run": false
+  },
+  {
+   "company": "replit",
+   "board": "ashby",
+   "title": "Business Operations Analyst",
+   "location": "Foster City, CA",
+   "url": "https://jobs.ashbyhq.com/replit/9b211cc2-dcb2-4902-b84f-a5a2d5d0705f",
+   "posted_or_updated": "2026-11-18T18:19:54.945+00:00",
+   "new_since_last_run": true
   },
   {
    "company": "harvey",
