@@ -1,16 +1,7 @@
 {
- "fetched_at": "2026-11-18T20:36:14Z",
- "count": 42,
+ "fetched_at": "2026-11-19T20:41:19Z",
+ "count": 39,
  "jobs": [
-  {
-   "company": "discord",
-   "board": "greenhouse",
-   "title": "Strategic Finance Analyst",
-   "location": "San Francisco Bay Area",
-   "url": "https://job-boards.greenhouse.io/discord/jobs/8865033002",
-   "posted_or_updated": "2026-11-10T15:23:17-05:00",
-   "new_since_last_run": false
-  },
   {
    "company": "figma",
    "board": "greenhouse",
@@ -35,7 +26,7 @@
    "title": "AMER Data Analyst - Sales Strategy and Operations",
    "location": "Chicago, US Remote, SF, NYC, Seattle",
    "url": "https://stripe.com/jobs/search?gh_jid=8354566",
-   "posted_or_updated": "2026-11-05T19:45:33-05:00",
+   "posted_or_updated": "2026-11-19T12:12:31-05:00",
    "new_since_last_run": false
   },
   {
@@ -44,7 +35,7 @@
    "title": "Data Analyst",
    "location": "US",
    "url": "https://stripe.com/jobs/search?gh_jid=5601881",
-   "posted_or_updated": "2026-11-13T17:08:50-05:00",
+   "posted_or_updated": "2026-11-19T12:12:18-05:00",
    "new_since_last_run": false
   },
   {
@@ -53,16 +44,7 @@
    "title": "Data Analyst, SF",
    "location": "San Francisco",
    "url": "https://stripe.com/jobs/search?gh_jid=8189909",
-   "posted_or_updated": "2026-11-11T12:48:21-05:00",
-   "new_since_last_run": false
-  },
-  {
-   "company": "stripe",
-   "board": "greenhouse",
-   "title": "Finance & Strategy, Corporate Finance Analyst",
-   "location": "New York, NY",
-   "url": "https://stripe.com/jobs/search?gh_jid=8249865",
-   "posted_or_updated": "2026-10-29T10:42:09-04:00",
+   "posted_or_updated": "2026-11-19T12:12:25-05:00",
    "new_since_last_run": false
   },
   {
@@ -71,7 +53,7 @@
    "title": "Finance & Strategy Specialist",
    "location": "United States",
    "url": "https://stripe.com/jobs/search?gh_jid=8287914",
-   "posted_or_updated": "2026-11-05T15:21:42-05:00",
+   "posted_or_updated": "2026-11-19T12:12:29-05:00",
    "new_since_last_run": false
   },
   {
@@ -80,7 +62,7 @@
    "title": "Renewals Analyst",
    "location": "Chicago, IL",
    "url": "https://stripe.com/jobs/search?gh_jid=8230306",
-   "posted_or_updated": "2026-10-29T10:42:09-04:00",
+   "posted_or_updated": "2026-11-19T12:12:27-05:00",
    "new_since_last_run": false
   },
   {
@@ -89,7 +71,7 @@
    "title": "Sales Strategy & Operations Analyst ",
    "location": "Chicago",
    "url": "https://stripe.com/jobs/search?gh_jid=8164674",
-   "posted_or_updated": "2026-11-16T10:55:35-05:00",
+   "posted_or_updated": "2026-11-19T12:12:24-05:00",
    "new_since_last_run": false
   },
   {
@@ -98,7 +80,7 @@
    "title": "Strategy & Analytics Business Partner Analyst",
    "location": "US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote",
    "url": "https://stripe.com/jobs/search?gh_jid=8079783",
-   "posted_or_updated": "2026-11-16T04:12:19-05:00",
+   "posted_or_updated": "2026-11-19T12:12:22-05:00",
    "new_since_last_run": false
   },
   {
@@ -237,15 +219,6 @@
    "new_since_last_run": false
   },
   {
-   "company": "okta",
-   "board": "greenhouse",
-   "title": "Demand Signals Specialist, GrowthX",
-   "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
-   "url": "https://www.okta.com/company/careers/opportunity/8238198?gh_jid=8238198",
-   "posted_or_updated": "2026-11-16T18:38:13-05:00",
-   "new_since_last_run": false
-  },
-  {
    "company": "palantir",
    "board": "lever",
    "title": "Operations Analyst - US Government",
@@ -333,7 +306,7 @@
    "location": "Foster City, CA",
    "url": "https://jobs.ashbyhq.com/replit/9b211cc2-dcb2-4902-b84f-a5a2d5d0705f",
    "posted_or_updated": "2026-11-18T18:19:54.945+00:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "harvey",
