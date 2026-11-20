@@ -1,4 +1,4 @@
-# Job feeds 2026-11-19T20:41:19Z
+# Job feeds 2026-11-20T20:26:25Z
 39 matching roles, 0 new since last run.
 
 ## New
