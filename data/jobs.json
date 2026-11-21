@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-20T20:26:25Z",
- "count": 39,
+ "fetched_at": "2026-11-21T19:19:43Z",
+ "count": 40,
  "jobs": [
   {
    "company": "figma",
@@ -132,18 +132,18 @@
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
-   "posted_or_updated": "2026-11-02T14:49:50-05:00",
+   "location": "Salt Lake City, Utah, United States",
+   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
+   "posted_or_updated": "2026-11-02T14:49:39-05:00",
    "new_since_last_run": false
   },
   {
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "Salt Lake City, Utah, United States",
-   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
-   "posted_or_updated": "2026-11-02T14:49:39-05:00",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
+   "posted_or_updated": "2026-11-02T14:49:50-05:00",
    "new_since_last_run": false
   },
   {
@@ -206,7 +206,7 @@
    "title": "Analyst, Early Career (Full Stack)",
    "location": "New York, New York, United States; San Francisco, California, United States",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
-   "posted_or_updated": "2026-11-17T18:04:11-05:00",
+   "posted_or_updated": "2026-11-20T16:03:42-05:00",
    "new_since_last_run": false
   },
   {
@@ -253,6 +253,15 @@
    "url": "https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4",
    "posted_or_updated": "2026-10-15T13:17:35.182+00:00",
    "new_since_last_run": false
+  },
+  {
+   "company": "ramp",
+   "board": "ashby",
+   "title": "Associate, GTM Operations",
+   "location": "New York, NY (HQ)",
+   "url": "https://jobs.ashbyhq.com/ramp/b18f851e-8784-452f-9eb1-43b57e8c2871",
+   "posted_or_updated": "2026-11-20T21:25:08.270+00:00",
+   "new_since_last_run": true
   },
   {
    "company": "openai",
