@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T19:19:43Z",
+ "fetched_at": "2026-11-22T19:44:38Z",
  "count": 40,
  "jobs": [
   {
@@ -261,7 +261,7 @@
    "location": "New York, NY (HQ)",
    "url": "https://jobs.ashbyhq.com/ramp/b18f851e-8784-452f-9eb1-43b57e8c2871",
    "posted_or_updated": "2026-11-20T21:25:08.270+00:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "openai",
