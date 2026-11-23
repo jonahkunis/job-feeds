@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-22T19:44:38Z",
- "count": 40,
+ "fetched_at": "2026-11-23T23:56:51Z",
+ "count": 42,
  "jobs": [
   {
    "company": "figma",
@@ -132,18 +132,18 @@
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "Salt Lake City, Utah, United States",
-   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
-   "posted_or_updated": "2026-11-02T14:49:39-05:00",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
+   "posted_or_updated": "2026-11-02T14:49:50-05:00",
    "new_since_last_run": false
   },
   {
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
-   "posted_or_updated": "2026-11-02T14:49:50-05:00",
+   "location": "Salt Lake City, Utah, United States",
+   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
+   "posted_or_updated": "2026-11-02T14:49:39-05:00",
    "new_since_last_run": false
   },
   {
@@ -219,6 +219,15 @@
    "new_since_last_run": false
   },
   {
+   "company": "gitlab",
+   "board": "greenhouse",
+   "title": "Junior Talent Operations Specialist",
+   "location": "Remote, United States",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950794002",
+   "posted_or_updated": "2026-11-23T18:03:54-05:00",
+   "new_since_last_run": true
+  },
+  {
    "company": "palantir",
    "board": "lever",
    "title": "Operations Analyst - US Government",
@@ -262,6 +271,15 @@
    "url": "https://jobs.ashbyhq.com/ramp/b18f851e-8784-452f-9eb1-43b57e8c2871",
    "posted_or_updated": "2026-11-20T21:25:08.270+00:00",
    "new_since_last_run": false
+  },
+  {
+   "company": "ramp",
+   "board": "ashby",
+   "title": "Associate, GTM Finance",
+   "location": "New York, NY (HQ)",
+   "url": "https://jobs.ashbyhq.com/ramp/b5bd9c30-4bc3-435e-aec1-43405474d317",
+   "posted_or_updated": "2026-11-23T18:02:43.597+00:00",
+   "new_since_last_run": true
   },
   {
    "company": "openai",
