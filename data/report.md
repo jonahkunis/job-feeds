@@ -1,9 +1,9 @@
-# Job feeds 2026-11-23T23:56:51Z
-42 matching roles, 2 new since last run.
+# Job feeds 2026-11-24T22:29:31Z
+43 matching roles, 2 new since last run.
 
 ## New
-- gitlab: Junior Talent Operations Specialist (Remote, United States) https://job-boards.greenhouse.io/gitlab/jobs/8950794002
-- ramp: Associate, GTM Finance (New York, NY (HQ)) https://jobs.ashbyhq.com/ramp/b5bd9c30-4bc3-435e-aec1-43405474d317
+- coinbase: Brand Partnership Associate, Sports (Remote - USA) https://www.coinbase.com/careers/positions/8268156?gh_jid=8268156
+- brex: Field Marketing Coordinator, Upmarket (Remote) https://www.brex.com/careers/8960878002?gh_jid=8960878002
 
 ## DEAD slugs (fix in companies.json)
 - none

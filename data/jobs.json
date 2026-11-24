@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-23T23:56:51Z",
- "count": 42,
+ "fetched_at": "2026-11-24T22:29:31Z",
+ "count": 43,
  "jobs": [
   {
    "company": "figma",
@@ -75,15 +75,6 @@
    "new_since_last_run": false
   },
   {
-   "company": "stripe",
-   "board": "greenhouse",
-   "title": "Strategy & Analytics Business Partner Analyst",
-   "location": "US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote",
-   "url": "https://stripe.com/jobs/search?gh_jid=8079783",
-   "posted_or_updated": "2026-11-19T12:12:22-05:00",
-   "new_since_last_run": false
-  },
-  {
    "company": "lyft",
    "board": "greenhouse",
    "title": "Digital Ad Ops Coordinator, Lyft Ads",
@@ -100,6 +91,15 @@
    "url": "https://boards.greenhouse.io/robinhood/jobs/8379685?t=gh_src=&gh_jid=8379685",
    "posted_or_updated": "2026-11-13T03:04:43-05:00",
    "new_since_last_run": false
+  },
+  {
+   "company": "coinbase",
+   "board": "greenhouse",
+   "title": "Brand Partnership Associate, Sports",
+   "location": "Remote - USA",
+   "url": "https://www.coinbase.com/careers/positions/8268156?gh_jid=8268156",
+   "posted_or_updated": "2026-11-24T14:27:23-05:00",
+   "new_since_last_run": true
   },
   {
    "company": "coinbase",
@@ -145,6 +145,15 @@
    "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
    "posted_or_updated": "2026-11-02T14:49:39-05:00",
    "new_since_last_run": false
+  },
+  {
+   "company": "brex",
+   "board": "greenhouse",
+   "title": "Field Marketing Coordinator, Upmarket",
+   "location": "Remote",
+   "url": "https://www.brex.com/careers/8960878002?gh_jid=8960878002",
+   "posted_or_updated": "2026-11-24T13:54:52-05:00",
+   "new_since_last_run": true
   },
   {
    "company": "brex",
@@ -225,7 +234,7 @@
    "location": "Remote, United States",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950794002",
    "posted_or_updated": "2026-11-23T18:03:54-05:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "palantir",
@@ -279,7 +288,7 @@
    "location": "New York, NY (HQ)",
    "url": "https://jobs.ashbyhq.com/ramp/b5bd9c30-4bc3-435e-aec1-43405474d317",
    "posted_or_updated": "2026-11-23T18:02:43.597+00:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "openai",
