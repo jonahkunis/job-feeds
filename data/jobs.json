@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-24T22:29:31Z",
- "count": 43,
+ "fetched_at": "2026-11-25T21:44:47Z",
+ "count": 44,
  "jobs": [
   {
    "company": "figma",
@@ -8,7 +8,7 @@
    "title": "Business Systems Analyst",
    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
    "url": "https://boards.greenhouse.io/figma/jobs/6215865004?gh_jid=6215865004",
-   "posted_or_updated": "2026-10-27T16:52:05-04:00",
+   "posted_or_updated": "2026-11-25T09:22:05-05:00",
    "new_since_last_run": false
   },
   {
@@ -59,6 +59,15 @@
   {
    "company": "stripe",
    "board": "greenhouse",
+   "title": "Operations Insights, Business Partner Analyst",
+   "location": "South San Francisco, CA",
+   "url": "https://stripe.com/jobs/search?gh_jid=8417785",
+   "posted_or_updated": "2026-11-25T13:46:13-05:00",
+   "new_since_last_run": true
+  },
+  {
+   "company": "stripe",
+   "board": "greenhouse",
    "title": "Renewals Analyst",
    "location": "Chicago, IL",
    "url": "https://stripe.com/jobs/search?gh_jid=8230306",
@@ -99,7 +108,7 @@
    "location": "Remote - USA",
    "url": "https://www.coinbase.com/careers/positions/8268156?gh_jid=8268156",
    "posted_or_updated": "2026-11-24T14:27:23-05:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "coinbase",
@@ -153,7 +162,7 @@
    "location": "Remote",
    "url": "https://www.brex.com/careers/8960878002?gh_jid=8960878002",
    "posted_or_updated": "2026-11-24T13:54:52-05:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "brex",
