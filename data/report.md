@@ -1,8 +1,8 @@
-# Job feeds 2026-11-25T21:44:47Z
-44 matching roles, 1 new since last run.
+# Job feeds 2026-11-26T21:37:55Z
+44 matching roles, 0 new since last run.
 
 ## New
-- stripe: Operations Insights, Business Partner Analyst (South San Francisco, CA) https://stripe.com/jobs/search?gh_jid=8417785
+- none
 
 ## DEAD slugs (fix in companies.json)
 - none

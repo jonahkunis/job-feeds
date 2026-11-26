@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T21:44:47Z",
+ "fetched_at": "2026-11-26T21:37:55Z",
  "count": 44,
  "jobs": [
   {
@@ -63,7 +63,7 @@
    "location": "South San Francisco, CA",
    "url": "https://stripe.com/jobs/search?gh_jid=8417785",
    "posted_or_updated": "2026-11-25T13:46:13-05:00",
-   "new_since_last_run": true
+   "new_since_last_run": false
   },
   {
    "company": "stripe",
@@ -141,18 +141,18 @@
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
-   "posted_or_updated": "2026-11-02T14:49:50-05:00",
+   "location": "Salt Lake City, Utah, United States",
+   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
+   "posted_or_updated": "2026-11-02T14:49:39-05:00",
    "new_since_last_run": false
   },
   {
    "company": "brex",
    "board": "greenhouse",
    "title": "Analyst, Banking Operations (Domestic)",
-   "location": "Salt Lake City, Utah, United States",
-   "url": "https://www.brex.com/careers/8923923002?gh_jid=8923923002",
-   "posted_or_updated": "2026-11-02T14:49:39-05:00",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8924533002?gh_jid=8924533002",
+   "posted_or_updated": "2026-11-02T14:49:50-05:00",
    "new_since_last_run": false
   },
   {
